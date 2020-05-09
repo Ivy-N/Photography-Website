@@ -1,7 +1,23 @@
-.column{
-  width= 100px;
+.column {
+  width= 350px;
   float=left;
+  border: 3px solid #C1263B;
+  margin: 4px;
+  padding:4px;
 }
+
+.column1{
+  background-color: #F8DADE;
+}
+
+.column2{
+  background-color: pink;
+}
+
+.column3{
+  background-color: red;
+}
+
 h1{
   text-align:center;
   color:#C1263B;
