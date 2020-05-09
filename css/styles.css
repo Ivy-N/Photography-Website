@@ -1,0 +1,14 @@
+.column{
+  width= 100px;
+  float=left;
+}
+h1{
+  text-align:center;
+  color:#C1263B;
+}
+h2{
+  font-weight:bold;
+  font-style:italic;
+  background-color:#F8DADE;
+  text-align:center;
+}
